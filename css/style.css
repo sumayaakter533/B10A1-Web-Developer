@@ -1,0 +1,43 @@
+/* Todo: Add google font - Azeret Mono; */
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+body {
+    font-family: 'Azeret Mono', monospace;
+}
+
+/* ******************************************************************************************************************** */
+
+/* Todo: Add common css for the whole project */
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+a {
+    text-decoration: none;
+    display: inline-block;
+}
+
+img {
+    vertical-align: middle;
+    width: 100%;
+}
+
+ul,
+ol {
+    list-style: none;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.text-center {
+    text-align: center;
+}
+/* Todo: End of common css */
+
+/* ******************************************************************************************************************** */
