@@ -48,7 +48,6 @@ ol {
 
 /* Todo: Start header section css */
 .header-container {
-    background-color: aquamarine;
     height: 130px;
     display: flex;
     justify-content: space-between;
