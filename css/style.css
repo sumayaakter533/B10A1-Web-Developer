@@ -38,6 +38,39 @@ ol {
 .text-center {
     text-align: center;
 }
+
+.primary-color {
+    color: #0d1321;
+}
 /* Todo: End of common css */
+
+/* ******************************************************************************************************************** */
+
+/* Todo: Start header section css */
+.header-container {
+    background-color: aquamarine;
+    height: 130px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-container h3 {
+    font-size: 28px;
+    font-weight: 800;
+    line-height: 33px;
+}
+
+.header-container a {
+    width: 228px;
+    height: 58px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 58px;
+    border: 1px solid #0d1321;
+    border-radius: 8px;
+    opacity: 0.8;
+}
+/* Todo: End header section css */
 
 /* ******************************************************************************************************************** */
