@@ -49,6 +49,13 @@ ol {
     font-weight: 800;
     line-height: 37px;
 }
+
+.section-description {
+    color: #0d1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+}
 /* Todo: End of common css */
 
 /* ******************************************************************************************************************** */
@@ -74,6 +81,7 @@ ol {
     font-weight: 600;
     line-height: 58px;
     border: 1px solid #0d1321;
+    transition: all linear 0.4s;
     border-radius: 8px;
     opacity: 0.8;
 }
@@ -106,9 +114,6 @@ ol {
 }
 
 .banner-container p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 24px 145px 32px;
 }
 
@@ -120,6 +125,8 @@ ol {
     font-weight: 600;
     line-height: 23px;
     border-radius: 8px;
+    transition: all linear 0.4s;
+    border: 1px solid transparent;
 }
 /* Todo: End banner section css */
 
@@ -135,9 +142,6 @@ ol {
 }
 
 .development-goal-heading p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 24px 50px 48px;
 }
 
@@ -169,9 +173,6 @@ ol {
 }
 
 .developer-goal-item-text p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     margin: 16px 0 32px;
 }
 
@@ -191,9 +192,6 @@ ol {
 
 /* Todo: Start my inspiration section */
 .inspiration-heading-text p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 24px 90px 48px;
 }
 
@@ -222,9 +220,6 @@ ol {
 }
 
 .current-target-heading p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 24px 90px 48px;
 }
 
@@ -252,11 +247,9 @@ ol {
     padding-top: 24px;
 }
 .current-target-card > p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 8px 0 24px;
 }
+
 .current-target-card > a {
     font-size: 16px;
     font-weight: 700;
@@ -269,9 +262,6 @@ ol {
 
 /* Todo: Start my next target section */
 .next-target-heading p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 24px 25px 48px;
 }
 
@@ -314,9 +304,6 @@ ol {
 }
 
 .next-target-card-text > p {
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 8px 0 24px;
 }
 
@@ -358,9 +345,6 @@ ol {
 
 .footer-heading p {
     color: #ffffff;
-    font-size: 16px;
-    font-weight: 400;
-    line-height: 26px;
     padding: 16px 110px 24px;
 }
 
