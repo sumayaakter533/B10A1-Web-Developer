@@ -184,5 +184,37 @@ ol {
     border: 1px solid #0d1321;
     opacity: 0.7;
 }
-
 /* Todo: End why web development section (goals section) */
+
+/* ******************************************************************************************************************** */
+
+/* Todo: Start my inspiration section */
+.inspiration-heading-text h2 {
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+}
+
+.inspiration-heading-text p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 24px 90px 48px;
+}
+
+.inspiration-inner-contents {
+    padding: 32px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.2);
+}
+
+.inspiration-inner-contents > iframe {
+    width: 100%;
+    height: 550px;
+    border-radius: 16px;
+}
+
+#inspiration-section{
+    margin-bottom: 150px;
+}
+/* Todo: End my inspiration section */
