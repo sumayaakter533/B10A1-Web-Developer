@@ -42,6 +42,13 @@ ol {
 .primary-color {
     color: #0d1321;
 }
+
+.section-title {
+    color: #0d1321;
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+}
 /* Todo: End of common css */
 
 /* ******************************************************************************************************************** */
@@ -127,12 +134,6 @@ ol {
     padding: 80px 97px;
 }
 
-.development-goal-heading h2 {
-    font-size: 32px;
-    font-weight: 800;
-    line-height: 37px;
-}
-
 .development-goal-heading p {
     font-size: 16px;
     font-weight: 400;
@@ -189,12 +190,6 @@ ol {
 /* ******************************************************************************************************************** */
 
 /* Todo: Start my inspiration section */
-.inspiration-heading-text h2 {
-    font-size: 32px;
-    font-weight: 800;
-    line-height: 37px;
-}
-
 .inspiration-heading-text p {
     font-size: 16px;
     font-weight: 400;
@@ -224,12 +219,6 @@ ol {
 /* Todo: Start my current target section */
 #current-target-section {
     margin-bottom: 110px;
-}
-
-.current-target-heading h2 {
-    font-size: 32px;
-    font-weight: 800;
-    line-height: 37px;
 }
 
 .current-target-heading p {
@@ -279,12 +268,6 @@ ol {
 /* ******************************************************************************************************************** */
 
 /* Todo: Start my next target section */
-.next-target-heading h2 {
-    font-size: 32px;
-    font-weight: 800;
-    line-height: 37px;
-}
-
 .next-target-heading p {
     font-size: 16px;
     font-weight: 400;
