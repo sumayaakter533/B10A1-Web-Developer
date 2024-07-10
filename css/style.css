@@ -276,6 +276,8 @@ ol {
 }
 /* Todo: End my current target section */
 
+/* ******************************************************************************************************************** */
+
 /* Todo: Start my next target section */
 .next-target-heading h2 {
     font-size: 32px;
@@ -346,3 +348,99 @@ ol {
     margin-bottom: 50px;
 }
 /* Todo: End my next target section */
+
+/* ******************************************************************************************************************** */
+
+/* Todo: Start footer section */
+.footer-container {
+    padding: 64px 48px;
+    background-image: linear-gradient(
+            to top,
+            rgba(0, 0, 0, 0.9),
+            rgba(0, 0, 0, 0.5)
+        ),
+        url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    border-radius: 16px;
+}
+
+.footer-heading h3 {
+    color: #ffffff;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.footer-heading p {
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 16px 110px 24px;
+}
+
+.footer-form .form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 16px;
+}
+
+.footer-form form > input {
+    width: 550px;
+    height: 55px;
+    padding: 0 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 55px;
+    text-align: left;
+    border-radius: 8px;
+    color: rgba(13, 19, 33, 0.4);
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: rgb(255, 255, 255);
+}
+
+.footer-form form > button {
+    height: 55px;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: rgb(255, 255, 255);
+    padding: 17px 20px;
+    border: none;
+}
+
+.footer-btm {
+    display: flex;
+    padding: 32px 0;
+    margin-top: 80px;
+    justify-content: space-between;
+}
+
+.footer-btm p {
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+}
+
+.footer-links > i {
+    font-size: 36px;
+    margin-left: 14px;
+}
+
+.footer-links > .facebook {
+    color: #006aff;
+}
+
+.footer-links > .github {
+    color: #161614;
+}
+
+.footer-links > .linkedin {
+    color: #0575b3;
+}
+/* Todo: End footer section */
+
+/* ******************************************************************************************************************** */
