@@ -117,3 +117,72 @@ ol {
 /* Todo: End banner section css */
 
 /* ******************************************************************************************************************** */
+
+/* Todo: Start why web development section (goals section) */
+#development-goal-section {
+    margin: 74px 0 88px;
+}
+
+.developer-goal-container {
+    padding: 80px 97px;
+}
+
+.development-goal-heading h2 {
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+}
+
+.development-goal-heading p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    padding: 24px 50px 48px;
+}
+
+.developer-goal-item {
+    display: flex;
+    padding: 48px;
+    justify-content: space-between;
+    margin-bottom: 32px;
+}
+
+.developer-goal-item:last-child {
+    margin-bottom: 0;
+}
+
+.developer-goal-item-width {
+    width: 50%;
+}
+
+.developer-goal-item-second-child-width {
+    width: 65%;
+    padding-right: 56px;
+}
+
+.developer-goal-item-text h3 {
+    color: rgba(13, 19, 33, 0.7);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+.developer-goal-item-text p {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin: 16px 0 32px;
+}
+
+.developer-goal-item-text a {
+    width: 175px;
+    height: 48px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    padding: 12px 20px;
+    border: 1px solid #0d1321;
+    opacity: 0.7;
+}
+
+/* Todo: End why web development section (goals section) */
