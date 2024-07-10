@@ -428,21 +428,21 @@ ol {
     line-height: 23px;
 }
 
-.footer-links > i {
+.footer-links a > i {
     font-size: 36px;
     margin-left: 14px;
     cursor: pointer;
 }
 
-.footer-links > .facebook {
+.footer-links a > .facebook {
     color: #006aff;
 }
 
-.footer-links > .github {
+.footer-links a > .github {
     color: #161614;
 }
 
-.footer-links > .linkedin {
+.footer-links a > .linkedin {
     color: #0575b3;
 }
 /* Todo: End footer section */
